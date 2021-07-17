@@ -1,0 +1,5 @@
+uvicorn
+fastapi
+nepalitokenizer
+joblib
+sklearn
